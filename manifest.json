@@ -1,8 +1,8 @@
 {
     "name": "Penpot MCP Plugin",
-    "code": "plugin.js",
+    "code": "plugin.js?rev=6",
     "icon": "icon.jpg",
-    "version": 2,
+    "version": 6,
     "description": "This plugin enables interaction with the Penpot MCP server",
     "permissions": ["content:read", "content:write", "library:read", "library:write", "comment:read", "comment:write"]
 }
